@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img align="right" alt="Data Science" width="400" src="https://github.com/Adityakumar92/Adityakumar92/blob/main/christmas.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakumar92&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumar92" /> </p>
 
 - 📫 How to reach me **little.aditya.47@gmail.com**
